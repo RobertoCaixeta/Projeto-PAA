@@ -39,5 +39,5 @@ export const Button = styled.button`
   padding: 0.5em 1em;
   border: 2px solid #ff4d4d;
   border-radius: 10px;
-  width: 10em;
+  width: 9em;
 `;
