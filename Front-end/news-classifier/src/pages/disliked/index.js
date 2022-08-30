@@ -23,7 +23,7 @@ export default function Disliked() {
                 </Container>
             </Navbar>
             <br />
-            <Table data={news} visible={false} />
+            <Table data={news} visible={false} color={"#0d6efd"}/>
         </>
     )
 }

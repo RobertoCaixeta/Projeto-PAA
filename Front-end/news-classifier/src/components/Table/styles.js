@@ -13,7 +13,7 @@ export const Background = styled.div`
 export const Container = styled.div`
   display: flex;
   border-style:solid;
-  border-color: black;
+  border-color: ${props => props.color || "black"};
   border-radius: 20px;
   justify-content: center;
   flex-direction: column; 
@@ -33,11 +33,11 @@ export const Text = styled.p`
   font-size: 18px;
 `
 export const Button = styled.button`
-  color: #ff4d4d;
+  color: ${props => props.color || "black"};
   font-size: 1em;
   margin: 1em 0;
   padding: 0.5em 1em;
-  border: 2px solid #ff4d4d;
+  border: 2px solid ${props => props.color || "black"};
   border-radius: 10px;
   width: 9em;
 `;
