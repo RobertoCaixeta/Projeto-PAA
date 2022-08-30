@@ -23,7 +23,7 @@ export default function Liked() {
                 </Container>
             </Navbar>
             <br />
-            <Table data={news} visible={false}  color={"#dc3545"}/>
+            <Table data={news} visible={false}  color={"#dc3545"} liked={true}/>
         </>
     )
 }

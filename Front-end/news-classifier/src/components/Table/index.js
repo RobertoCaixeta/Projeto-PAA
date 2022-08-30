@@ -1,8 +1,9 @@
 import React from 'react'
 import { Background, Container, Title, Text, Button } from './styles';
 import { AiOutlineDislike, AiOutlineLike } from "react-icons/ai";
+import { BsHeart } from "react-icons/bs";
 
-export default function Table({ data, visible, color }) {
+export default function Table({ data, visible, color, liked }) {
     return (
         <>
             <div>
@@ -14,6 +15,11 @@ export default function Table({ data, visible, color }) {
                                 <div>
                                     <AiOutlineLike size={"2em"} />
                                     <AiOutlineDislike size={"2em"} />
+                                </div>
+                            }
+                            {liked &&
+                                <div>
+                                    <BsHeart size={"2em"} color={color}/>
                                 </div>
                             }
 
