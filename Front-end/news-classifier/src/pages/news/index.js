@@ -15,9 +15,10 @@ export default function News() {
         <>
             <Navbar bg="dark" variant="dark">
                 <Container>
-                    <Navbar.Brand href="/">News</Navbar.Brand>
+                    <Navbar.Brand href="/news">News</Navbar.Brand>
                     <Nav className="me-auto">
                         <Nav.Link href="/liked">Liked</Nav.Link>
+                        <Nav.Link href="/">Tags</Nav.Link>
                     </Nav>
                 </Container>
             </Navbar>

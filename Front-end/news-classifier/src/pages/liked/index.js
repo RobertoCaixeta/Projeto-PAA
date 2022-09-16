@@ -17,7 +17,8 @@ export default function Liked() {
                 <Container>
                     <Navbar.Brand href="#liked">Liked</Navbar.Brand>
                     <Nav className="me-auto">
-                        <Nav.Link href="/">News</Nav.Link>
+                        <Nav.Link href="/news">News</Nav.Link>
+                        <Nav.Link href="/">Tags</Nav.Link>
                     </Nav>
                 </Container>
             </Navbar>
