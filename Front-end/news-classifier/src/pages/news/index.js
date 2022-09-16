@@ -10,7 +10,7 @@ export default function News() {
         api.get(`/news`).then(({ data }) => {
             setNews(data)
         })
-    }, []);
+    }, [news]);
     return (
         <>
             <Navbar bg="dark" variant="dark">
@@ -18,7 +18,6 @@ export default function News() {
                     <Navbar.Brand href="/">News</Navbar.Brand>
                     <Nav className="me-auto">
                         <Nav.Link href="/liked">Liked</Nav.Link>
-                        <Nav.Link href="/disliked">Disliked</Nav.Link>
                     </Nav>
                 </Container>
             </Navbar>
