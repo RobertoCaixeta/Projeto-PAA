@@ -63,7 +63,7 @@ export default function Tags() {
                     <h1>Tags Disponíveis</h1>
                     {tags.map(tag => (
                         <h1 style={{ display: "inline", margin: "10px" }} key={tag.id}>
-                            <Badge onClick={() => selecionarTag(tag)} bg="primary">{tag.Text}</Badge>
+                            <Badge onClick={() => selecionarTag(tag)} bg="secondary">{tag.Text}</Badge>
                         </h1>
                     ))}
 
@@ -71,11 +71,11 @@ export default function Tags() {
                     <h1 style={{ marginTop: "100px" }}>Tags Selecionadas</h1>
                     {tagsSelecionadas.map(tag => (
                         <h1 style={{ display: "inline", margin: "10px" }} key={tag.id}>
-                            <Badge onClick={() => handleRemoveTag(tag)} bg="danger">{tag.Text}</Badge>
+                            <Badge onClick={() => handleRemoveTag(tag)} bg="primary">{tag.Text}</Badge>
                         </h1>
                     ))}
                 </div>
-                <Button variant="dark" style={{ marginTop: "100px" }} onClick={selecionarTags}>Selecionar Tags</Button>
+                <Button variant="secondary" style={{ marginTop: "100px" }} onClick={selecionarTags}>Selecionar Tags</Button>
 
             </Background>
         </>
