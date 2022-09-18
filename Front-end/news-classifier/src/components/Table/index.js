@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect, useState } from 'react'
 import api from '../../services/api'
 import { Background, Container, Title, Text, Button } from './styles';
 import { AiOutlineLike } from "react-icons/ai";
@@ -6,15 +6,23 @@ import { BsHeart } from "react-icons/bs";
 import Badge from 'react-bootstrap/Badge';
 
 export default function Table({ data, visible, color, liked }) {
+    const [news, setNews] = useState([]);
+
     function like(noticia) {
+        api.get(`/liked`).then(({ data }) => {
+            setNews(data)
+        })
+        api.delete(`/news/${noticia.id}`).then(({ data }) => {
+            window.location.reload();
+        })
+        noticia.id = news.length + 1
+        console.log(noticia.id)
         api.post(`/liked`, noticia).then(({ data }) => {
         }).catch((error) => {
             alert("Erro ao dar like na notícia!!")
             console.log(error)
         })
-        api.delete(`/news/${noticia.id}`).then(({ data }) => {
-            window.location.reload();
-        })
+        
     }
     return (
         <>
@@ -26,17 +34,17 @@ export default function Table({ data, visible, color, liked }) {
                             {visible &&
                                 <div>
                                     <AiOutlineLike size={"2em"} onClick={event => like(noticia)} />
-                                    {noticia.tags.map(tag => (
-                                        <Badge key={tag.id} bg="secondary" style={{ marginLeft: "4px" }}>{tag.Text}</Badge>
-                                    ))}
+
+                                    <Badge bg="secondary" style={{ marginLeft: "4px" }}>{noticia.tag}</Badge>
+
                                 </div>
                             }
                             {liked &&
                                 <div>
                                     <BsHeart size={"2em"} color={color} />
-                                    {noticia.tags.map(tag => (
-                                        <Badge key={tag.id} bg="danger" style={{ marginLeft: "4px" }}>{tag.Text}</Badge>
-                                    ))}
+
+                                    <Badge bg="danger" style={{ marginLeft: "4px" }}>{noticia.tag}</Badge>
+
                                 </div>
                             }
 

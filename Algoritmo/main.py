@@ -109,5 +109,5 @@ for idx, row in likes.iterrows():
     liked.append(noticia)
 
 aux = {"news":news, "liked":liked}
-with open("ranked.json", "w") as f:
+with open("/../Front-end/json-mock-api/src/db.json", "w") as f:
 	  json.dump (aux, f)

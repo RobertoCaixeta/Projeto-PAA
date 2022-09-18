@@ -1,214 +1,713 @@
 {
   "news": [
     {
+      "tag": "combate",
+      "id": 42,
+      "title": "Sonnen ve afinidade profunda com Anderson: \"Quando a carreira dele acabar, a minha acaba\"",
+      "text": " ",
+      "link": "https://ge.globo.com/combate/noticia/2022/09/16/sonnen-ve-afinidade-profunda-com-anderson-quando-a-carreira-dele-acabar-a-minha-acaba.ghtml"
+    },
+    {
+      "tag": "Eleicoes 2022",
+      "id": 22,
+      "title": "Proibicao para campanha de Bolsonaro usar imagens do 7 de Setembro nao se restringe a material de TV publica, decide TSE",
+      "text": " ",
+      "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/09/16/campanha-de-bolsonaro-nao-podera-usar-imagens-do-7-de-setembro-decide-ministro.ghtml"
+    },
+    {
+      "tag": "Eleicoes 2022 no Rio de Janeiro",
+      "id": 19,
+      "title": "Cyro Garcia promete investimentos na educacao",
+      "text": " ",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2022/noticia/2022/09/16/cyro-garcia-promete-investimentos-na-educacao.ghtml"
+    },
+    {
+      "tag": "Eleicoes 2022 no Rio de Janeiro",
+      "id": 20,
+      "title": "Paulo Ganime faz campanha no Leblon e propoe reduzir a carga tributaria no RJ",
+      "text": " ",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2022/noticia/2022/09/16/paulo-ganime-faz-campanha-no-leblon-e-propoe-reduzir-a-carga-tributaria-no-rj.ghtml"
+    },
+    {
+      "tag": "Eleicoes 2022 no Rio de Janeiro",
+      "id": 17,
+      "title": "Em Itaborai, Rodrigo Neves promete concluir as obras do Comperj",
+      "text": " ",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2022/noticia/2022/09/16/em-itaborai-rodrigo-neves-promete-concluir-as-obras-do-comperj.ghtml"
+    },
+    {
+      "tag": "Eleicoes 2022 no Rio de Janeiro",
+      "id": 18,
+      "title": "Freixo promete programa de acoes sociais e infraestrutura para comunidades",
+      "text": " ",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2022/noticia/2022/09/16/freixo-promete-programa-de-acoes-sociais-e-infraestrutura-para-comunidades.ghtml"
+    },
+    {
+      "tag": "futebol",
+      "id": 40,
+      "title": "Vitor Roque, o fenomeno: aos 17 anos, atacante do Athletico esta no ensino medio e concilia futebol com estudos",
+      "text": " ",
+      "link": "https://ge.globo.com/pr/futebol/noticia/2022/09/16/vitor-roque-o-fenomeno-atacante-concilia-o-athletico-com-estudos-e-se-prepara-para-a-faculdade.ghtml"
+    },
+    {
+      "tag": "futebol",
+      "id": 47,
+      "title": "Copa do Brasil Sub-20: confira os clubes participantes, formato e datas do torneio",
+      "text": " ",
+      "link": "https://ge.globo.com/ap/futebol/noticia/2022/09/16/copa-do-brasil-sub-20-confira-os-clubes-participantes-formato-e-datas-do-torneio.ghtml"
+    },
+    {
+      "tag": "futebol",
+      "id": 44,
+      "title": "Vitor Roque, o fenomeno: aos 17 anos, atacante do Athletico esta no ensino medio e concilia futebol com estudos",
+      "text": " ",
+      "link": "https://ge.globo.com/pr/futebol/noticia/2022/09/16/vitor-roque-o-fenomeno-atacante-concilia-o-athletico-com-estudos-e-se-prepara-para-a-faculdade.ghtml"
+    },
+    {
+      "tag": "Economia",
+      "id": 1,
+      "title": "Litro da gasolina fica abaixo de R$ 5 pela 1a vez desde fevereiro de 2021",
+      "text": " ",
+      "link": "https://g1.globo.com/economia/noticia/2022/09/16/preco-medio-do-litro-da-gasolina-fica-abaixo-de-r-5-pela-primeira-vez-desde-fevereiro-de-2021.ghtml"
+    },
+    {
+      "tag": "Economia",
+      "id": 35,
+      "title": "Piso salarial da enfermagem: entenda os possiveis impactos da lei suspensa pelo STF",
+      "text": " ",
+      "link": "https://g1.globo.com/economia/stories/2022/09/16/piso-salarial-da-enfermagem-entenda-os-possiveis-impactos-da-lei-suspensa-pelo-stf.ghtml"
+    },
+    {
+      "tag": "Politica",
+      "id": 26,
+      "title": "PGR recorre de decisao de Rosa Weber e quer arquivar apuracao sobre conduta de Bolsonaro na pandemia",
+      "text": " ",
+      "link": "https://g1.globo.com/politica/noticia/2022/09/16/pgr-recorre-de-decisao-de-rosa-weber-que-permitiu-que-pf-continue-apuracoes-preliminares-sobre-conduta-de-bolsonaro-na-pandemia.ghtml"
+    },
+    {
+      "tag": "Politica",
+      "id": 12,
+      "title": "Barroso vota para validar pontos da reforma da Previdencia de 2019",
+      "text": " ",
+      "link": "https://g1.globo.com/politica/noticia/2022/09/16/barroso-vota-para-considerar-validos-pontos-da-reforma-da-previdencia-aprovada-em-2019.ghtml"
+    },
+    {
+      "tag": "futebol internacional",
+      "id": 50,
+      "title": "David Beckham espera 12 horas em fila para se despedir da rainha Elizabeth II",
+      "text": "Com Marquinhos, do Arsenal, lista de 40 nomes da Golden Boy e divulgada",
+      "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2022/09/16/david-beckham-espera-12-horas-em-fila-para-se-despedir-da-rainha-elizabeth-ii.ghtml"
+    },
+    {
+      "tag": "futebol internacional",
+      "id": 48,
+      "title": "Caso Byron Castillo: em segunda instancia, Fifa recusa pedido do Chile e mantem Equador na Copa",
+      "text": "Com Arrascaeta, mas sem Cavani e Godin, Uruguai divulga lista para amistosos",
+      "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2022/09/16/caso-byron-castillo-em-segunda-instancia-fifa-recusa-pedido-do-chile-e-mantem-equador-na-copa.ghtml"
+    },
+    {
+      "tag": "Economia",
       "id": 4,
-      "title": "Palmeiras tem mundial",
-      "text": "Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis.Manduma pindureta quium dia nois paga.Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.Cevadis im ampola pa arma uma pindureta.Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis.Manduma pindureta quium dia nois paga.Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.Cevadis im ampola pa arma uma pindureta.Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis.Manduma pindureta quium dia nois paga.Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.Cevadis im ampola pa arma uma pindureta.Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis.Manduma pindureta quium dia nois paga.Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.Cevadis im ampola pa arma uma pindureta.Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis.Manduma pindureta quium dia nois paga.Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.Cevadis im ampola pa arma uma pindureta.Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis.Manduma pindureta quium dia nois paga.Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.Cevadis im ampola pa arma uma pindureta.Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis.Manduma pindureta quium dia nois paga.Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.Cevadis im ampola pa arma uma pindureta.Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis.Manduma pindureta quium dia nois paga.Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.Cevadis im ampola pa arma uma pindureta.Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis.Manduma pindureta quium dia nois paga.Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.Cevadis im ampola pa arma uma pindureta.Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis.Manduma pindureta quium dia nois paga.Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.Cevadis im ampola pa arma uma pindureta.Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis.Manduma pindureta quium dia nois paga.Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.Cevadis im ampola pa arma uma pindureta.Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis.Manduma pindureta quium dia nois paga.Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.Cevadis im ampola pa arma uma pindureta.Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis.Manduma pindureta quium dia nois paga.Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.Cevadis im ampola pa arma uma pindureta.Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis.Manduma pindureta quium dia nois paga.Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.Cevadis im ampola pa arma uma pindureta.Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis.Manduma pindureta quium dia nois paga.Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.Cevadis im ampola pa arma uma pindureta.Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis.Manduma pindureta quium dia nois paga.Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.Cevadis im ampola pa arma uma pindureta.Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis.Manduma pindureta quium dia nois paga.Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.Cevadis im ampola pa arma uma pindureta.Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis.Manduma pindureta quium dia nois paga.Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.Cevadis im ampola pa arma uma pindureta.Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis.Manduma pindureta quium dia nois paga.Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.Cevadis im ampola pa arma uma pindureta.Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis.Manduma pindureta quium dia nois paga.Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.Cevadis im ampola pa arma uma pindureta.Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis.Manduma pindureta quium dia nois paga.Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.Cevadis im ampola pa arma uma pindureta.Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis.Manduma pindureta quium dia nois paga.Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.Cevadis im ampola pa arma uma pindureta.Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis.Manduma pindureta quium dia nois paga.Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.Cevadis im ampola pa arma uma pindureta.Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis.Manduma pindureta quium dia nois paga.Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.Cevadis im ampola pa arma uma pindureta.Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis.Manduma pindureta quium dia nois paga.Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.Cevadis im ampola pa arma uma pindureta.Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis.Manduma pindureta quium dia nois paga.Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.Cevadis im ampola pa arma uma pindureta.Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis.Manduma pindureta quium dia nois paga.Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.Cevadis im ampola pa arma uma pindureta.",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2022/08/25/estudante-encontra-figurinha-rara-de-neymar-e-torcedores-oferecem-relogio-e-ate-ninhada-de-cachorro-em-troca.ghtml",
-      "tags": [
-        {
-          "id": 1,
-          "Text": "Patolino"
-        },
-        {
-          "id": 2,
-          "Text": "Neymar"
-        },
-        {
-          "id": 3,
-          "Text": "Patrão"
-        },
-        {
-          "id": 4,
-          "Text": "Média"
-        }
-      ]
+      "title": "BC confirma vazamento de dados de chaves PIX pelo Abastece Ai",
+      "text": " ",
+      "link": "https://g1.globo.com/economia/noticia/2022/09/16/pix-bc-confirma-vazamento-de-dados-cadastrais-de-clientes-de-clube-automobilista-senhas-e-saldos-nao-foram-expostos.ghtml"
     },
     {
-      "id": 3,
-      "title": "Procuro rima com pescoço",
-      "text": "Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis.Manduma pindureta quium dia nois paga.Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.Cevadis im ampola pa arma uma pindureta.",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2022/08/25/estudante-encontra-figurinha-rara-de-neymar-e-torcedores-oferecem-relogio-e-ate-ninhada-de-cachorro-em-troca.ghtml",
-      "tags": [
-        {
-          "id": 1,
-          "Text": "Patolino"
-        },
-        {
-          "id": 2,
-          "Text": "Neymar"
-        },
-        {
-          "id": 3,
-          "Text": "Patrão"
-        },
-        {
-          "id": 4,
-          "Text": "Média"
-        }
-      ]
+      "tag": "Politica",
+      "id": 34,
+      "title": "Barroso vota para considerar validos pontos da reforma da Previdencia aprovada em 2019",
+      "text": " ",
+      "link": "https://g1.globo.com/politica/noticia/2022/09/16/barroso-vota-para-considerar-validos-pontos-da-reforma-da-previdencia-aprovada-em-2019.ghtml"
     },
     {
-      "id": 5,
-      "title": "O mago é implacável",
-      "text": "Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis.Manduma pindureta quium dia nois paga.Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.Cevadis im ampola pa arma uma pindureta.",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2022/08/25/estudante-encontra-figurinha-rara-de-neymar-e-torcedores-oferecem-relogio-e-ate-ninhada-de-cachorro-em-troca.ghtml",
-      "tags": [
-        {
-          "id": 1,
-          "Text": "Patolino"
-        },
-        {
-          "id": 2,
-          "Text": "Neymar"
-        },
-        {
-          "id": 3,
-          "Text": "Patrão"
-        },
-        {
-          "id": 4,
-          "Text": "Média"
-        }
-      ]
+      "tag": "Eleicoes 2022 em Sao Paulo",
+      "id": 8,
+      "title": "Collor e confisco viram tema na disputa entre Tarcisio e Rodrigo",
+      "text": " ",
+      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2022/noticia/2022/09/16/empatados-tecnicamente-rodrigo-garcia-e-tarcisio-de-freitas-trocam-acusacoes-nas-redes-sociais-nesta-sexta.ghtml"
     },
     {
-      "id": 7,
-      "title": "John",
-      "text": "Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis.Manduma pindureta quium dia nois paga.Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.Cevadis im ampola pa arma uma pindureta.",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2022/08/25/estudante-encontra-figurinha-rara-de-neymar-e-torcedores-oferecem-relogio-e-ate-ninhada-de-cachorro-em-troca.ghtml",
-      "tags": [
-        {
-          "id": 1,
-          "Text": "Patolino"
-        },
-        {
-          "id": 2,
-          "Text": "Neymar"
-        },
-        {
-          "id": 3,
-          "Text": "Patrão"
-        },
-        {
-          "id": 4,
-          "Text": "Média"
-        }
-      ]
+      "tag": "Musica",
+      "id": 16,
+      "title": "Lollapalooza 2023 comeca pre-venda de ingressos; veja valores",
+      "text": "Gloria Groove e Tropkillaz abrem show de J Balvin no Brasil",
+      "link": "https://g1.globo.com/pop-arte/musica/noticia/2022/09/16/lollapalooza-2023-pre-venda-de-ingressos-comeca-nesta-sexta-feira-16.ghtml"
     },
     {
+      "tag": "sao paulo",
+      "id": 39,
+      "title": "Diretor do Sao Paulo garante: \"Vamos com o Rogerio ate o final de 2023\"",
+      "text": " ",
+      "link": "https://ge.globo.com/futebol/times/sao-paulo/noticia/2022/09/16/diretor-do-sao-paulo-garante-vamos-com-o-rogerio-ate-o-final-de-2023.ghtml"
+    },
+    {
+      "tag": "Eleicoes 2022 no Rio Grande do Sul",
+      "id": 0,
+      "title": "'Vergonha nacional', diz Lula sobre dados do ensino no Brasil",
+      "text": " ",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2022/noticia/2022/09/16/lula-porto-alegre-comicio.ghtml"
+    },
+    {
+      "tag": "futebol frances",
+      "id": 46,
+      "title": "Diretor esportivo do PSG nega que Mbappe tenha pedido a saida de Neymar: \"Jamais esteve perto de sair\"",
+      "text": " ",
+      "link": "https://ge.globo.com/futebol/futebol-internacional/futebol-frances/noticia/2022/09/16/diretor-esportivo-do-psg-nega-que-mbappe-tenha-pedido-a-saida-de-neymar-jamais-esteve-perto-de-sair.ghtml"
+    },
+    {
+      "tag": "Fato ou Fake",
+      "id": 37,
+      "title": "E #FAKE audio sobre picada de cobra em piscina de bolinha em shopping em Nova Iguacu",
+      "text": " ",
+      "link": "https://g1.globo.com/fato-ou-fake/noticia/2022/09/16/e-fake-audio-sobre-picada-de-cobra-em-piscina-de-bolinha-em-shopping-em-nova-iguacu.ghtml"
+    },
+    {
+      "tag": "nautico",
+      "id": 49,
+      "title": "Expulsoes, golaco e atacante no gol: relembre a unica vitoria do Nautico sobre o Vasco em Sao Januario",
+      "text": "Tecnico do Cruzeiro, Pezzolano sera julgado e pode ficar fora ante Vasco",
+      "link": "https://ge.globo.com/pe/futebol/times/nautico/noticia/2022/09/16/expulsoes-golaco-e-atacante-no-gol-relembra-a-unica-vitoria-do-nautico-sobre-o-vasco-em-sao-januario.ghtml"
+    },
+    {
+      "tag": "lol",
+      "id": 53,
+      "title": "CBLOL 2023: SuperCleber, Bounty e mais tem contratos expirados no Fla Los Grandes",
+      "text": " ",
+      "link": "https://ge.globo.com/esports/lol/noticia/2022/09/16/cblol-2023-supercleber-bounty-e-mais-tem-contratos-expirados-no-fla-los-grandes.ghtml"
+    },
+    {
+      "tag": "sao paulo",
+      "id": 54,
+      "title": "Sao Paulo vai vender ingressos a R$ 50 em setor coberto do Morumbi no Brasileirao",
+      "text": " ",
+      "link": "https://ge.globo.com/futebol/times/sao-paulo/noticia/2022/09/16/sao-paulo-vai-vender-ingressos-a-r-50-em-setor-coberto-do-morumbi-no-brasileirao.ghtml"
+    },
+    {
+      "tag": "paysandu",
+      "id": 55,
+      "title": "Paysandu encerra preparacao para enfrentar o ABC, neste sabado",
+      "text": " ",
+      "link": "https://ge.globo.com/pa/futebol/times/paysandu/noticia/2022/09/16/paysandu-encerra-preparacao-para-enfrentar-o-abc-neste-sabado.ghtml"
+    },
+    {
+      "tag": "Tempo Real",
+      "id": 38,
+      "title": "Apos sequencia de trapalhadas, Andrey Santos bate de fora e faz o terceiro gol do Vasco",
+      "text": "De penalti, Raniel abre o placar na Colina",
+      "link": "https://ge.globo.com/futebol/video/aos-1-min-do-2o-tempo-gol-de-fora-da-area-de-andrey-dos-santos-do-vasco-contra-o-nautico-10943635.ghtml"
+    },
+    {
+      "tag": "Eleicoes 2022 no Espirito Santo",
+      "id": 28,
+      "title": "Capitao Sousa defende estatizacoes, criacao de universidade estadual e fazer obras publicas para gerar empregos",
+      "text": " ",
+      "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2022/noticia/2022/09/16/capitao-sousa-defende-estatizacoes-criacao-de-universidade-estadual-e-fazer-obras-publicas-para-gerar-empregos.ghtml"
+    },
+    {
+      "tag": "Pop & Arte",
+      "id": 21,
+      "title": "'O Fantasma da Opera' vai encerrar apresentacoes na Broadway em 2023",
+      "text": " ",
+      "link": "https://g1.globo.com/pop-arte/noticia/2022/09/16/o-fantasma-da-opera-vai-encerrar-apresentacoes-na-broadway-em-2023.ghtml"
+    },
+    {
+      "tag": "Educacao",
+      "id": 32,
+      "title": "Raio x da educacao: Censo Escolar, Ideb e Saeb",
+      "text": " ",
+      "link": "https://g1.globo.com/educacao/stories/2022/09/16/raio-x-da-educacao-censo-escolar-ideb-e-saeb.ghtml"
+    },
+    {
+      "tag": "Ucrania e Russia",
       "id": 2,
-      "title": "Clube atlético mineiro emite uma nota",
-      "text": "Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis.Manduma pindureta quium dia nois paga.Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.Cevadis im ampola pa arma uma pindureta.",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2022/08/25/estudante-encontra-figurinha-rara-de-neymar-e-torcedores-oferecem-relogio-e-ate-ninhada-de-cachorro-em-troca.ghtml",
-      "tags": [
-        {
-          "id": 1,
-          "Text": "Patolino"
-        },
-        {
-          "id": 2,
-          "Text": "Neymar"
-        },
-        {
-          "id": 3,
-          "Text": "Patrão"
-        },
-        {
-          "id": 4,
-          "Text": "Média"
-        }
-      ]
+      "title": "Modi critica Putin em publico: 'A era de hoje nao e uma era de guerra'",
+      "text": " ",
+      "link": "https://g1.globo.com/mundo/ucrania-russia/noticia/2022/09/16/modi-da-india-critica-putin-em-publico-a-era-de-hoje-nao-e-uma-era-de-guerra-e-falei-com-voce-ao-telefone-sobre-isso.ghtml"
     },
     {
-      "id": 6,
-      "title": "Que que há velinho",
-      "text": "Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis.Manduma pindureta quium dia nois paga.Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.Cevadis im ampola pa arma uma pindureta.",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2022/08/25/estudante-encontra-figurinha-rara-de-neymar-e-torcedores-oferecem-relogio-e-ate-ninhada-de-cachorro-em-troca.ghtml",
-      "tags": [
-        {
-          "id": 1,
-          "Text": "Patolino"
-        },
-        {
-          "id": 2,
-          "Text": "Neymar"
-        },
-        {
-          "id": 3,
-          "Text": "Patrão"
-        },
-        {
-          "id": 4,
-          "Text": "Média"
-        }
-      ]
+      "tag": "Coronavirus",
+      "id": 3,
+      "title": "Brasil registra 92 novas mortes por Covid; media movel esta em queda",
+      "text": "103,5 milhoes de pessoas tomaram a dose de reforco",
+      "link": "https://g1.globo.com/saude/coronavirus/noticia/2022/09/16/brasil-registra-92-novas-mortes-por-covid-media-movel-esta-em-queda.ghtml"
+    },
+    {
+      "tag": "Eleicoes 2022 no Rio Grande do Sul",
+      "id": 9,
+      "title": "Pesquisa Ipec no RS: Leite tem 38%; Onyx, 26%",
+      "text": "Disputa ao Senado: Olivio tem 28%; Ana Amelia, 25%; Mourao, 19%",
+      "link": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2022/noticia/2022/09/16/pesquisa-ipec-no-rs-leite-onyx-e-pretto.ghtml"
+    },
+    {
+      "tag": "Eleicoes 2022 na Bahia",
+      "id": 10,
+      "title": "ACM Neto questiona decisoes judiciais apos retirada de insercoes na TV",
+      "text": " ",
+      "link": "https://g1.globo.com/ba/bahia/eleicoes/2022/noticia/2022/09/16/apos-retirada-de-insercoes-no-radio-e-tv-acm-neto-questiona-decisoes-da-justica-eleitoral-da-ba-nao-vamos-aceitar-ser-prejudicados.ghtml"
+    },
+    {
+      "tag": "Pernambuco",
+      "id": 14,
+      "title": "Mulher e criticada por criar 'kit farmacia' para namorado doente",
+      "text": " ",
+      "link": "https://g1.globo.com/pe/pernambuco/noticia/2022/09/16/mulher-e-criticada-na-web-por-criar-kit-farmacia-para-namorado-doente-e-diz-e-minha-linguagem-do-amor.ghtml"
+    },
+    {
+      "tag": "Tecnologia",
+      "id": 15,
+      "title": "28 milhoes de brasileiros nao acessaram a internet em 2021",
+      "text": " ",
+      "link": "https://g1.globo.com/tecnologia/noticia/2022/09/16/em-2021-28-milhoes-de-pessoas-no-brasil-nao-usaram-a-internet-diz-ibge.ghtml"
+    },
+    {
+      "tag": "ma",
+      "id": 56,
+      "title": "Federacao diz que Copa FMF comeca no dia 16 de outubro",
+      "text": " ",
+      "link": "https://ge.globo.com/ma/noticia/2022/09/16/federacao-diz-que-copa-fmf-comeca-no-dia-16-de-outubro.ghtml"
+    },
+    {
+      "tag": "Ucrania e Russia",
+      "id": 25,
+      "title": "Modi, da India, critica Putin em publico: 'A era de hoje nao e uma era de guerra, e falei com voce ao telefone sobre isso'",
+      "text": " ",
+      "link": "https://g1.globo.com/mundo/ucrania-russia/noticia/2022/09/16/modi-da-india-critica-putin-em-publico-a-era-de-hoje-nao-e-uma-era-de-guerra-e-falei-com-voce-ao-telefone-sobre-isso.ghtml"
+    },
+    {
+      "tag": "Eleicoes 2022 no Espirito Santo",
+      "id": 27,
+      "title": "Claudio Paiva diz que vai acabar com pedagio da 3a Ponte, gratificar policiais e professores e zerar ICMS de cesta basica, combustiveis e medicamentos",
+      "text": " ",
+      "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2022/noticia/2022/09/16/claudio-paiva-diz-que-vai-acabar-com-pedagio-da-3a-ponte-gratificar-policiais-e-professores-e-zerar-icms-de-cesta-basica-combustiveis-e-medicamentos.ghtml"
+    },
+    {
+      "tag": "Eleicoes 2022 no Espirito Santo",
+      "id": 29,
+      "title": "Aridelmo diz que vai investir em creches, usar tecnologia para melhorar seguranca publica e zerar filas da saude",
+      "text": " ",
+      "link": "https://g1.globo.com/es/espirito-santo/eleicoes/2022/noticia/2022/09/16/aridelmo-diz-que-vai-investir-em-creches-usar-tecnologia-para-melhorar-seguranca-publica-e-zerar-filas-da-saude.ghtml"
+    },
+    {
+      "tag": "Educacao em Pernambuco",
+      "id": 31,
+      "title": "Ideb 2021: indice de Pernambuco tem queda nos anos iniciais e ensino medio, e sobe 0,1 ponto nos anos finais",
+      "text": " ",
+      "link": "https://g1.globo.com/pe/pernambuco/educacao/noticia/2022/09/16/ideb-2021-indice-de-pernambuco-tem-queda-nos-anos-iniciais-e-ensino-medio-e-sobe-01-ponto-nos-anos-finais.ghtml"
+    },
+    {
+      "tag": "Campinas e Regiao",
+      "id": 24,
+      "title": "Falso agenciador de emprego e preso em Campinas por suspeita de estupros em SP, diz policia",
+      "text": " ",
+      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2022/09/16/falso-agenciador-de-emprego-e-preso-em-campinas-por-suspeita-de-estupros-em-sp-diz-policia.ghtml"
+    },
+    {
+      "tag": "Eleicoes 2022 em Sao Paulo",
+      "id": 23,
+      "title": "Morador de SP faz tatuagem com rostos de Lula e Bolsonaro",
+      "text": " ",
+      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2022/noticia/2022/09/16/morador-de-sp-faz-tatuagem-com-rosto-de-lula-e-bolsonaro.ghtml"
+    },
+    {
+      "tag": "Mundo",
+      "id": 11,
+      "title": "Charles III e os irmaos fazem vigilia no velorio de Elizabeth II",
+      "text": "ASSISTA: novo rei e vaiado no Pais de Gales",
+      "link": "https://g1.globo.com/mundo/noticia/2022/09/16/charles-iii-e-os-irmaos-participam-da-vigilia-dos-principes-em-homenagem-a-rainha-elizabeth-ii.ghtml"
+    },
+    {
+      "tag": "Eleicoes 2022 em Sao Paulo",
+      "id": 7,
+      "title": "Homem faz tatuagem com rostos de Lula e Bolsonaro em SP",
+      "text": " ",
+      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2022/noticia/2022/09/16/morador-de-sp-faz-tatuagem-com-rosto-de-lula-e-bolsonaro.ghtml"
+    },
+    {
+      "tag": "Mundo",
+      "id": 30,
+      "title": "Imigrantes enviados por politico do Partido Republicano a ilha onde democratas fazem veraneio nos EUA sao acomodados em base militar",
+      "text": " ",
+      "link": "https://g1.globo.com/mundo/noticia/2022/09/16/imigrantes-enviados-por-politico-do-partido-republicano-a-ilha-onde-democratas-fazem-veraneio-nos-eua-sao-acomodados-em-base-militar.ghtml"
+    },
+    {
+      "tag": "Mundo",
+      "id": 36,
+      "title": "Espera para ver caixao da rainha em Londres passa de 24 horas, e fila tem 8 km; SIGA",
+      "text": " ",
+      "link": "https://g1.globo.com/mundo/ao-vivo/rainha-elizabeth-ii.ghtml"
     }
   ],
   "liked": [
     {
-      "id": 1,
-      "title": "Patolino vai de calça ao shopping",
-      "text": "Mussum Ipsum, cacilds vidis litro abertis. Per aumento de cachacis, eu reclamis.Manduma pindureta quium dia nois paga.Praesent vel viverra nisi. Mauris aliquet nunc non turpis scelerisque, eget.Cevadis im ampola pa arma uma pindureta.",
-      "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2022/08/25/estudante-encontra-figurinha-rara-de-neymar-e-torcedores-oferecem-relogio-e-ate-ninhada-de-cachorro-em-troca.ghtml",
-      "tags": [
-        {
-          "id": 1,
-          "Text": "Patolino"
-        },
-        {
-          "id": 2,
-          "Text": "Neymar"
-        },
-        {
-          "id": 3,
-          "Text": "Patrão"
-        },
-        {
-          "id": 4,
-          "Text": "Média"
-        }
-      ]
-    }
-  ],
-  "tags": [
-    {
-      "id": 1,
-      "Text": "Patolino"
+      "tag": "Eleicoes 2022",
+      "id": 0,
+      "title": "Decisao do TSE proibe Bolsonaro de usar imagens do 7 de Setembro",
+      "text": " ",
+      "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/09/16/campanha-de-bolsonaro-nao-podera-usar-imagens-do-7-de-setembro-decide-ministro.ghtml"
     },
     {
+      "tag": "Eleicoes 2022",
+      "id": 1,
+      "title": "Bolsonaro diz em comicio no PR que torce pela paz na Ucrania",
+      "text": "'Esta e uma eleicao de dois turnos', diz Tebet sobre voto util",
+      "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/09/16/bolsonaro-faz-comicio-em-cidade-do-pr-com-maior-comunidade-ucraniana-do-pais-somos-irmaos.ghtml"
+    },
+    {
+      "tag": "Rio de Janeiro",
       "id": 2,
-      "Text": "Neymar"
+      "title": "Padrasto filmado batendo no enteado de 4 anos e preso",
+      "text": " ",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/09/16/padrasto-filmado-agredindo-enteado-de-4-anos-se-entrega-a-policia.ghtml"
     },
     {
+      "tag": "Minas Gerais",
       "id": 3,
-      "Text": "Patrão"
+      "title": "'Estou em estado de choque', diz faxineira atacada durante o trabalho",
+      "text": "VIDEO mostra momento em que agressor empurra e joga agua na vitima",
+      "link": "https://g1.globo.com/mg/minas-gerais/noticia/2022/09/16/estou-em-estado-de-choque-diz-faxineira-agredida-enquanto-lavava-calcada-em-bh.ghtml"
     },
     {
+      "tag": "Pesquisa Eleitoral",
       "id": 4,
-      "Text": "Média"
+      "title": "7 em cada 10 ainda nao escolheram deputado, aponta Datafolha",
+      "text": "QUEM EU ESCOLHO? Ferramenta do g1 ajuda a encontrar o seu candidato",
+      "link": "https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2022/09/16/datafolha-69percent-ainda-nao-definiram-voto-para-deputado-federal.ghtml"
     },
     {
+      "tag": "Campinas e Regiao",
       "id": 5,
-      "Text": "Patati"
+      "title": "Morte de ganhador da Mega: policia tenta identificar contas que receberam dinheiro",
+      "text": " ",
+      "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2022/09/16/morte-de-ganhador-da-mega-sena-policia-aguarda-quebras-de-sigilos-bancario-e-telefonico-para-identificar-suspeitos.ghtml"
     },
     {
+      "tag": "Sao Paulo",
       "id": 6,
-      "Text": "Monster"
+      "title": "Homem e preso por estuprar mulheres em falsa entrevista de emprego",
+      "text": " ",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/09/16/homem-e-preso-suspeito-de-atrair-e-estuprar-mulheres-em-falsa-entrevista-de-emprego-na-zona-leste-de-sp.ghtml"
     },
     {
+      "tag": "Eleicoes 2022",
       "id": 7,
-      "Text": "Rock"
+      "title": "Viagem de Bolsonaro obriga Mourao e Lira a sairem do pais; entenda",
+      "text": " ",
+      "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/09/16/viagem-de-bolsonaro-ao-exterior-obriga-mourao-e-lira-a-deixarem-o-pais-em-plena-campanha-entenda.ghtml"
     },
     {
+      "tag": "Eleicoes 2022 no Parana",
       "id": 8,
-      "Text": "Brasil"
-    }
-  ],
-  "tagsSelecionadas": [
+      "title": "Ratinho lidera com 55%, e Requiao tem 28% no PR, aponta Ipec",
+      "text": "Para o Senado, Alvaro Dias tem 36%, e Moro, 25%",
+      "link": "https://g1.globo.com/pr/parana/eleicoes/2022/noticia/2022/09/16/pesquisa-eleitoral-ipec-no-parana-ratinho-tem-55percent-e-requiao-tem-28percent-na-disputa-ao-governo-estadual.ghtml"
+    },
     {
+      "tag": "Rock in Rio 2022",
       "id": 9,
-      "Text": "Desisto"
+      "title": "Demorou, mas o Rock in Rio aceitou o funk. E o merito e do funk",
+      "text": " ",
+      "link": "https://g1.globo.com/pop-arte/musica/rock-in-rio/2022/noticia/2022/09/16/por-que-anitta-nunca-mais-vai-pisar-no-rock-in-rio-entenda-a-tensao-entre-o-festival-e-o-funk.ghtml"
+    },
+    {
+      "tag": "Circuito Sertanejo",
+      "id": 10,
+      "title": "Luan Santana diz que 'seria uma honra' cantar no Rock in Rio",
+      "text": " ",
+      "link": "https://g1.globo.com/pop-arte/musica/circuito-sertanejo/noticia/2022/09/16/luan-santana-diz-que-seria-uma-honra-estar-no-rock-in-rio-apos-aceno-de-criador-do-festival-para-sertanejo.ghtml"
+    },
+    {
+      "tag": "Politica",
+      "id": 11,
+      "title": "PGR pede que Fux arquive apuracao sobre Bolsonaro na pandemia",
+      "text": " ",
+      "link": "https://g1.globo.com/politica/noticia/2022/09/16/pgr-recorre-de-decisao-de-rosa-weber-que-permitiu-que-pf-continue-apuracoes-preliminares-sobre-conduta-de-bolsonaro-na-pandemia.ghtml"
+    },
+    {
+      "tag": "Economia",
+      "id": 12,
+      "title": "Por que o piso da enfermagem foi barrado? Entenda a decisao do STF",
+      "text": "Veja 7 propostas em discussao para bancar salario-base da categoria",
+      "link": "https://g1.globo.com/economia/noticia/2022/09/16/piso-salarial-da-enfermagem-entenda-os-possiveis-impactos-da-lei-suspensa-pelo-stf.ghtml"
+    },
+    {
+      "tag": "Musica",
+      "id": 13,
+      "title": "Coala Festival comeca hoje em SP, com lote extra de ingressos",
+      "text": " ",
+      "link": "https://g1.globo.com/pop-arte/musica/noticia/2022/09/16/coala-festival-comeca-nesta-sexta-feira-16-veja-programacao-e-valores-de-ingressos.ghtml"
+    },
+    {
+      "tag": "Concursos",
+      "id": 14,
+      "title": "INSS abre inscricoes para concurso com mil vagas e salario de R$ 5,9 mil",
+      "text": "Saiba quantas vagas ha por estado",
+      "link": "https://g1.globo.com/trabalho-e-carreira/concursos/noticia/2022/09/16/concurso-do-inss-comecam-nesta-sexta-as-inscricoes-para-1000-vagas.ghtml"
+    },
+    {
+      "tag": "Eleicoes",
+      "id": 15,
+      "title": "Quem eu escolho? Ferramenta do g1 ajuda a encontrar seu candidato",
+      "text": " ",
+      "link": "https://especiaisg1.globo/politica/eleicoes/2022/quem-eu-escolho/deputado-federal"
+    },
+    {
+      "tag": "Inteligencia Financeira",
+      "id": 16,
+      "title": "Poupar e investir: qual e a diferenca?",
+      "text": " ",
+      "link": "https://g1.globo.com/economia/especial-publicitario/inteligencia-financeira/noticia/2022/09/16/poupar-e-investir-qual-e-a-diferenca.ghtml"
+    },
+    {
+      "tag": "Eleicoes 2022 no Rio de Janeiro",
+      "id": 17,
+      "title": "Claudio Castro se reune com empresarios do setor de bares e restaurantes e promete menor carga tributaria",
+      "text": " ",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2022/noticia/2022/09/16/claudio-castro-se-reune-com-empresarios-do-setor-de-bares-e-restaurantes-e-promete-menor-carga-tributaria.ghtml"
+    },
+    {
+      "tag": "Eleicoes 2022 no Rio de Janeiro",
+      "id": 18,
+      "title": "Juliete Pantoja promete concurso para medicos, professores e enfermeiros",
+      "text": " ",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2022/noticia/2022/09/16/juliete-pantoja-promete-concurso-para-medicos-professores-e-enfermeiros.ghtml"
+    },
+    {
+      "tag": "Sao Paulo",
+      "id": 19,
+      "title": "Apos repercussao de dezenas de afegaos em Cumbica, Prefeitura de SP oferece acolhimento; Defensoria quer que suspensao de visto seja revista",
+      "text": " ",
+      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/09/16/apos-repercussao-de-dezenas-de-afegaos-em-cumbica-prefeitura-de-sp-oferece-acolhimento-defensoria-quer-que-suspensao-de-visto-seja-revista.ghtml"
+    },
+    {
+      "tag": "Pesquisa Eleitoral",
+      "id": 20,
+      "title": "Datafolha: 65% dizem que participacao de Bolsonaro nos eventos de 7 de Setembro foi para fazer campanha politica",
+      "text": " ",
+      "link": "https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2022/09/16/datafolha-65percent-dizem-que-participacao-de-bolsonaro-nos-eventos-de-7-de-setembro-foi-para-fazer-campanha-politica.ghtml"
+    },
+    {
+      "tag": "Rio de Janeiro",
+      "id": 21,
+      "title": "Foragido da Justica, padrasto que bateu em enteado de 4 anos tem quatro enderecos registrados pelo MP",
+      "text": " ",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/09/16/foragido-da-justica-padrasto-que-bateu-em-enteado-de-4-anos-tem-quatro-enderecos-registrados-pelo-mp.ghtml"
+    },
+    {
+      "tag": "Economia",
+      "id": 22,
+      "title": "Preco medio do litro da gasolina fica abaixo de R$ 5 pela primeira vez desde fevereiro de 2021",
+      "text": " ",
+      "link": "https://g1.globo.com/economia/noticia/2022/09/16/preco-medio-do-litro-da-gasolina-fica-abaixo-de-r-5-pela-primeira-vez-desde-fevereiro-de-2021.ghtml"
+    },
+    {
+      "tag": "Politica",
+      "id": 23,
+      "title": "Moraes revoga liminar motivada pela Zona Franca de Manaus, e decreto que reduz IPI volta a valer",
+      "text": " ",
+      "link": "https://g1.globo.com/politica/noticia/2022/09/16/moraes-revoga-liminar-motivada-pela-zona-franca-de-manaus-e-decreto-que-reduziu-ipi-volta-a-valer.ghtml"
+    },
+    {
+      "tag": "Paraiba",
+      "id": 24,
+      "title": "Ideb 2021 na PB estaciona nos anos iniciais do fundamental, mas sobe nos anos finais e ensino medio",
+      "text": " ",
+      "link": "https://g1.globo.com/pb/paraiba/noticia/2022/09/16/ideb-2021-na-pb-estaciona-nos-anos-iniciais-do-fundamental-mas-sobe-nos-anos-finais-e-ensino-medio.ghtml"
+    },
+    {
+      "tag": "Eleicoes 2022 no Rio de Janeiro",
+      "id": 25,
+      "title": "Registros do Detran vao permitir que 2 milhoes de eleitores do RJ votem sem cadastrar biometria",
+      "text": " ",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2022/noticia/2022/09/16/registros-do-detran-vao-permitir-que-2-milhoes-de-eleitores-do-rj-votem-sem-cadastrar-biometria.ghtml"
+    },
+    {
+      "tag": "Eleicoes 2022 em Sao Paulo",
+      "id": 26,
+      "title": "Tarcisio de Freitas pede votos para Collor, Rodrigo Garcia critica, e adversarios discutem sobre 'confisco de dinheiro'",
+      "text": " ",
+      "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2022/noticia/2022/09/16/empatados-tecnicamente-rodrigo-garcia-e-tarcisio-de-freitas-trocam-acusacoes-nas-redes-sociais-nesta-sexta.ghtml"
+    },
+    {
+      "tag": "Rio de Janeiro",
+      "id": 27,
+      "title": "Paes diz que tres eventos anunciados no Parque Olimpico nao tem autorizacao da prefeitura",
+      "text": " ",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/09/16/paes-diz-que-tres-eventos-anunciados-no-parque-olimpico-nao-tem-autorizacao-da-prefeitura.ghtml"
+    },
+    {
+      "tag": "Rio de Janeiro",
+      "id": 28,
+      "title": "Rio segue em estagio de mobilizacao devido as chuvas",
+      "text": " ",
+      "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/09/16/rio-segue-em-estagio-de-mobilizacao-devido-as-chuvas.ghtml"
+    },
+    {
+      "tag": "Mundo",
+      "id": 29,
+      "title": "'A Yakuza virou minha familia': a artista que viveu no submundo da mafia japonesa para retratar suas mulheres",
+      "text": " ",
+      "link": "https://g1.globo.com/mundo/noticia/2022/09/16/a-yakuza-virou-minha-familia-a-artista-que-viveu-no-submundo-da-mafia-japonesa-para-retratar-suas-mulheres.ghtml"
+    },
+    {
+      "tag": "futebol internacional",
+      "id": 30,
+      "title": "Michael (ex-Flamengo) dribla o goleiro e perde gol inacreditavel. Companheiros caem no riso; veja",
+      "text": " ",
+      "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2022/09/16/michael-ex-flamengo-perde-gol-incrivel-na-arabia-saudita-assista.ghtml"
+    },
+    {
+      "tag": "espiao estatistico",
+      "id": 31,
+      "title": "Apesar de jogar classico, Palmeiras e o maior favorito da rodada, apontam estatisticas",
+      "text": " ",
+      "link": "https://ge.globo.com/espiao-estatistico/noticia/2022/09/16/favoritismos-27-veja-chances-de-vitoria-de-cada-equipe-na-rodada-do-campeonato-brasileiro.ghtml"
+    },
+    {
+      "tag": "corinthians",
+      "id": 32,
+      "title": "Corinthians troca 27 passes e poe Fluminense na roda em golaco",
+      "text": "Diretor comenta renovacao do tecnico Vitor Pereira: \"Ele quer, mas nao esta na mao dele\"",
+      "link": "https://ge.globo.com/futebol/times/corinthians/noticia/2022/09/16/anatomia-do-golaco-corinthians-usa-todos-os-jogadores-da-27-passes-e-poe-o-fluminense-na-roda.ghtml"
+    },
+    {
+      "tag": "fluminense",
+      "id": 33,
+      "title": "Mario combina conversa no fim do ano com Thiago Neves para o meia encerrar a carreira no Fluminense",
+      "text": "Fabio teve 8 segundos para voltar ao gol antes do chute de Renato Augusto",
+      "link": "https://ge.globo.com/futebol/times/fluminense/noticia/2022/09/16/mario-combina-conversa-no-fim-do-ano-com-thiago-neves-para-o-meia-encerrar-a-carreira-no-fluminense.ghtml"
+    },
+    {
+      "tag": "futebol ingles",
+      "id": 34,
+      "title": "Willian da assistencia, e Fulham vence Nottingham Forest no Ingles",
+      "text": " ",
+      "link": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/noticia/2022/09/16/willian-da-assistencia-e-fulham-vence-nottingham-forest-no-ingles.ghtml"
+    },
+    {
+      "tag": "combate",
+      "id": 35,
+      "title": "Sonnen ve afinidade profunda com Anderson: \"Quando a carreira dele acabar, a minha acaba\"",
+      "text": " ",
+      "link": "https://ge.globo.com/combate/noticia/2022/09/16/sonnen-ve-afinidade-profunda-com-anderson-quando-a-carreira-dele-acabar-a-minha-acaba.ghtml"
+    },
+    {
+      "tag": "goiania",
+      "id": 36,
+      "title": "Walter abre o coracao: \"Se eu parar hoje, e um sufoco para mim\"",
+      "text": " ",
+      "link": "https://ge.globo.com/sp/futebol/noticia/2022/09/16/walter-abre-o-coracao-atacante-revela-dramas-sonhos-e-sufoco-financeiro-se-parar-de-jogar.ghtml"
+    },
+    {
+      "tag": "futebol argentino",
+      "id": 37,
+      "title": "Independiente lanca uniforme em homenagem a titulos sobre o Flamengo: \"Maracanazo\"",
+      "text": " ",
+      "link": "https://ge.globo.com/futebol/futebol-internacional/futebol-argentino/noticia/2022/09/16/independiente-lanca-uniforme-em-homenagem-a-conquistas-sobre-o-flamengo-maracanazo.ghtml"
+    },
+    {
+      "tag": "futebol",
+      "id": 38,
+      "title": "Brasileiro revela promessa de CR7 por camisa apos duelo pela Liga Europa: \"Nao te preocupas\"",
+      "text": " ",
+      "link": "https://ge.globo.com/pe/futebol/noticia/2022/09/16/pernambuco-revela-promessa-de-cristiano-ronaldo-apos-duelo-pela-liga-europa-nao-te-preocupas.ghtml"
+    },
+    {
+      "tag": "olympicchannel",
+      "id": 39,
+      "title": "\"Ganhar um Grand Slam e ser top 10\": sonhos de Federer aos 19 anos",
+      "text": "Alcaraz perde primeiro jogo como numero 1",
+      "link": "https://ge.globo.com/olympicchannel/noticia/2022/09/16/ganhar-um-grand-slam-e-ser-top-10-sonhos-de-federer-aos-19-anos.ghtml"
+    },
+    {
+      "tag": "futebol",
+      "id": 40,
+      "title": "Brasileiro revela promessa de CR7 por camisa apos duelo pela Liga Europa: \"Nao te preocupas\"",
+      "text": " ",
+      "link": "https://ge.globo.com/pe/futebol/noticia/2022/09/16/pernambuco-revela-promessa-de-cristiano-ronaldo-apos-duelo-pela-liga-europa-nao-te-preocupas.ghtml"
+    },
+    {
+      "tag": "coritiba",
+      "id": 41,
+      "title": "Coritiba anuncia novo head esportivo para a vaga de Rene Simoes",
+      "text": " ",
+      "link": "https://ge.globo.com/pr/futebol/times/coritiba/noticia/2022/09/16/coritiba-anuncia-novo-head-esportivo-para-a-vaga-de-rene-simoes.ghtml"
+    },
+    {
+      "tag": "futebol internacional",
+      "id": 42,
+      "title": "Eleito o defensor do mes, Morato tem contrato renovado com Benfica",
+      "text": " ",
+      "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2022/09/16/eleito-o-defensor-do-mes-morato-tem-contrato-renovado-com-benfica.ghtml"
+    },
+    {
+      "tag": "futebol",
+      "id": 43,
+      "title": "Da uniao a corneta: torcedores do Sport abandonam apoio ao Nautico em derrota pro Vasco",
+      "text": " ",
+      "link": "https://ge.globo.com/pe/futebol/times/sport/noticia/2022/09/16/da-uniao-a-corneta-torcedores-do-sport-abandonam-apoio-ao-nautico-em-derrota-pro-vasco.ghtml"
+    },
+    {
+      "tag": "ceara",
+      "id": 44,
+      "title": "Ceara recusou propostas por Mendoza, Sobral e Lacerda",
+      "text": " ",
+      "link": "https://ge.globo.com/ce/futebol/times/ceara/noticia/2022/09/16/ceara-recusou-propostas-por-mendoza-sobral-e-lacerda.ghtml"
+    },
+    {
+      "tag": "am",
+      "id": 45,
+      "title": "Com percursos de 5k e 10k, corrida Nova Era ocorre no proximo dia 16 de outubro, em Manaus",
+      "text": " ",
+      "link": "https://ge.globo.com/am/noticia/2022/09/16/com-percursos-de-5k-e-10k-corrida-nova-era-ocorre-no-proximo-dia-16-de-outubro-em-manaus.ghtml"
+    },
+    {
+      "tag": "atletico-mg",
+      "id": 46,
+      "title": "Atletico-MG: idealizador do \"Manto da Massa 3\" e o primeiro a receber camisa",
+      "text": " ",
+      "link": "https://ge.globo.com/futebol/times/atletico-mg/noticia/2022/09/16/atletico-mg-idealizador-do-manto-da-massa-3-e-o-primeiro-a-receber-camisa.ghtml"
+    },
+    {
+      "tag": "copa tv sergipe de futsal",
+      "id": 47,
+      "title": "Rafael Moreira exalta classificacao de Ribeiropolis para a semifinal: \"Historica\"",
+      "text": " ",
+      "link": "https://ge.globo.com/se/copa-tv-sergipe-de-futsal/noticia/2022/09/16/rafael-moreira-exalta-classificacao-de-ribeiropolis-para-a-semifinal-historica.ghtml"
+    },
+    {
+      "tag": "fluminense",
+      "id": 48,
+      "title": "Escalacao do Fluminense: Andre retorna ao time para o Fla-Flu",
+      "text": " ",
+      "link": "https://ge.globo.com/futebol/times/fluminense/noticia/2022/09/16/escalacao-do-fluminense-andre-retorna-ao-time-para-o-fla-flu.ghtml"
+    },
+    {
+      "tag": "brasileirao serie b",
+      "id": 49,
+      "title": "Chapecoense x CSA: veja onde assistir, desfalques, escalacoes e arbitragem",
+      "text": " ",
+      "link": "https://ge.globo.com/sc/futebol/brasileirao-serie-b/noticia/2022/09/16/chapecoense-x-csa-veja-onde-assistir-desfalques-escalacoes-e-arbitragem.ghtml"
+    },
+    {
+      "tag": "natacao",
+      "id": 50,
+      "title": "Nicholas Santos consegue indice para 18o mundial de natacao da carreira",
+      "text": " ",
+      "link": "https://ge.globo.com/pe/natacao/noticia/2022/09/16/nicholas-santos-consegue-indice-para-17o-mundial-de-natacao-da-carreira.ghtml"
+    },
+    {
+      "tag": "combate",
+      "id": 51,
+      "title": "Sonnen ve afinidade profunda com Anderson: \"Quando a carreira dele acabar, a minha acaba\"",
+      "text": " ",
+      "link": "https://ge.globo.com/combate/noticia/2022/09/16/sonnen-ve-afinidade-profunda-com-anderson-quando-a-carreira-dele-acabar-a-minha-acaba.ghtml"
+    },
+    {
+      "tag": "combate",
+      "id": 52,
+      "title": "Sonnen ve afinidade profunda com Anderson: \"Quando a carreira dele acabar, a minha acaba\"",
+      "text": " ",
+      "link": "https://ge.globo.com/combate/noticia/2022/09/16/sonnen-ve-afinidade-profunda-com-anderson-quando-a-carreira-dele-acabar-a-minha-acaba.ghtml"
     }
   ]
 }

@@ -11,8 +11,7 @@ function App() {
     <>
       <BrowserRouter>
         <Routes>
-        <Route path="/" element={<Tags />} />
-          <Route path="/news" element={<News />} />
+          <Route path="/" element={<News />} />
           <Route path="/liked" element={<Liked/>} />
 
         </Routes>
