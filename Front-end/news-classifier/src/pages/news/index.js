@@ -10,7 +10,7 @@ export default function News() {
         api.get(`/news`).then(({ data }) => {
             setNews(data)
         })
-    }, [news]);
+    }, []);
     return (
         <>
             <Navbar bg="dark" variant="dark">

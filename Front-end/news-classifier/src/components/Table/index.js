@@ -9,14 +9,14 @@ export default function Table({ data, visible, color, liked }) {
     const [news, setNews] = useState([]);
 
     function like(noticia) {
-        api.get(`/liked`).then(({ data }) => {
+        /*api.get(`/liked`).then(({ data }) => {
             setNews(data)
-        })
+        })*/
         api.delete(`/news/${noticia.id}`).then(({ data }) => {
             window.location.reload();
         })
-        noticia.id = news.length + 1
-        console.log(noticia.id)
+        /*noticia.id = news.length + 1
+        console.log(noticia.id)*/
         api.post(`/liked`, noticia).then(({ data }) => {
         }).catch((error) => {
             alert("Erro ao dar like na notícia!!")
