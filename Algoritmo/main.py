@@ -10,7 +10,7 @@ ultimo = 0
 atual = 0
 def rank_alg():
     nltk.download("stopwords")
-    dataset = json.loads(open("ranked.json","r").read())
+    dataset = json.loads(open("../Front-End/json-mock-api/src/db.json","r").read())
     
     newsaux = dataset["news"]
     likedaux = dataset["liked"]
@@ -107,12 +107,12 @@ def rank_alg():
 def foo():
     global ultimo
     global atual
-    liked = json.loads(open("ranked.json","r").read())
+    liked = json.loads(open("../Front-End/json-mock-api/src/db.json","r").read())
     atual = len(liked['liked'])
     if(atual != ultimo):
         rank_alg()
         ultimo = atual
-    threading.Timer(10, foo).start()
+    threading.Timer(1, foo).start()
 
 def main():
     foo()
